@@ -1,0 +1,34 @@
+vasiliy@vasiliy:~/Documents/study/3rd_course/2nd_sem/OS/lab_12/src$ gcc fopen_thr2.c 
+vasiliy@vasiliy:~/Documents/study/3rd_course/2nd_sem/OS/lab_12/src$ ./a.out 
+st_ino: 3163976  st_size: 0  pos: 0
+st_ino: 3163976  st_size: 0  pos: 0
+st_ino: 3163976  st_size: 0  pos: 1
+st_ino: 3163976  st_size: 0  pos: 2
+st_ino: 3163976  st_size: 0  pos: 3
+st_ino: 3163976  st_size: 0  pos: 4
+st_ino: 3163976  st_size: 0  pos: 5
+st_ino: 3163976  st_size: 0  pos: 6
+st_ino: 3163976  st_size: 0  pos: 7
+st_ino: 3163976  st_size: 0  pos: 8
+st_ino: 3163976  st_size: 0  pos: 9
+st_ino: 3163976  st_size: 0  pos: 10
+st_ino: 3163976  st_size: 0  pos: 11
+st_ino: 3163976  st_size: 0  pos: 12
+st_ino: 3163976  st_size: 0  pos: 1
+st_ino: 3163976  st_size: 0  pos: 2
+st_ino: 3163976  st_size: 0  pos: 3
+st_ino: 3163976  st_size: 0  pos: 4
+st_ino: 3163976  st_size: 0  pos: 5
+st_ino: 3163976  st_size: 0  pos: 6
+st_ino: 3163976  st_size: 0  pos: 7
+st_ino: 3163976  st_size: 0  pos: 8
+st_ino: 3163976  st_size: 0  pos: 9
+st_ino: 3163976  st_size: 0  pos: 10
+st_ino: 3163976  st_size: 0  pos: 11
+st_ino: 3163976  st_size: 0  pos: 12
+st_ino: 3163976  st_size: 0  pos: 13
+st_ino: 3163976  st_size: 0  pos: 13
+st_ino: 3163976  st_size: 13  pos: -1
+st_ino: 3163976  st_size: 13  pos: -1
+vasiliy@vasiliy:~/Documents/study/3rd_course/2nd_sem/OS/lab_12/src$ cat res.txt
+bdfhjlnprtvxz
